@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section lists the series of smaller assignments and presentations
+  that led the class to its end goals.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
