@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments section lists the series of smaller assignments and presentations
+  that led the class to its end goals.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2737f243-a143-ce1d-6c21-bbaa6d57f1c1
 ---

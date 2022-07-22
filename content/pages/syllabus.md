@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains the overview and background of the course along
+  with the project objectives and goals.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 590e3f0f-697d-4ce9-8bf3-0db109040f3e
 ---
