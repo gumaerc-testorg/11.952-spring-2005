@@ -4,6 +4,7 @@ description: 'This resource contains the fourth chapter of the report prepared b
   the students. This chapter includes - water, transportation, density and form: high,
   mid density, civic centers, and village regeneration.'
 file: /courses/11-952-gaoming-studio-china-spring-2005/b231c863952e1db3b37176057f5ade03_chapter4.pdf
+file_size: 2403142
 file_type: application/pdf
 learning_resource_types:
 - Projects
