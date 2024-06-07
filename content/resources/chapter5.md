@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the fifth chapter of the report prepared by the
   students. This chapter includes - acknowledgements, sources and credits.
 file: /courses/11-952-gaoming-studio-china-spring-2005/25ad7327810dbbe3b761b12cc69abada_chapter5.pdf
+file_size: 273977
 file_type: application/pdf
 learning_resource_types:
 - Projects
