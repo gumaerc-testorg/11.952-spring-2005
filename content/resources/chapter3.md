@@ -4,6 +4,7 @@ description: 'This resource contains the third chapter of the report prepared by
   students. This chapter includes - re-building the urban canal, balancing urban growth,
   Gaoming: A maturing city, greening Gaoming, and network city Gaoming.'
 file: /courses/11-952-gaoming-studio-china-spring-2005/cc3992399c278a17586896f7c87090b9_chapter3.pdf
+file_size: 3362389
 file_type: application/pdf
 learning_resource_types:
 - Projects
