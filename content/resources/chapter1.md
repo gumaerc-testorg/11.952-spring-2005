@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the first chapter of the report prepared by the
   students. This chapter includes - regional context, streets and transportation,
   riverfront, housing, density and land use.
-file: /courses/11-952-gaoming-studio-china-spring-2005/26d92f1ac5dc93fa9209d0f65894d473_chapter1.pdf
+file: /ol-ocw-studio-app/courses/11-952-gaoming-studio-china-spring-2005/26d92f1ac5dc93fa9209d0f65894d473_chapter1.pdf
 file_size: 723944
 file_type: application/pdf
 learning_resource_types:
